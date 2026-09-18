@@ -24,5 +24,5 @@ Full-stack developer working across React, Node.js, and MongoDB — building tow
 
 ### Connect
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/tawhidh05/]
-- 📫 Email: [Tawhidh2014@gmail.com]
+- 💼 [LinkedIn][https://www.linkedin.com/in/tawhidh05/]
+- 📫 [Email][Tawhidh2014@gmail.com]
