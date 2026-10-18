@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Tawhid Hossain👋
+# Hi, I'm Tawhid Hossain
 
 Full-stack developer working across React, Node.js, and MongoDB — building toward backend depth and exploring ML/AI on the side.
 
