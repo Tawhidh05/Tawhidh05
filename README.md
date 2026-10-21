@@ -31,13 +31,13 @@ Full-stack developer working across React, Node.js, and MongoDB — building tow
 - 💼 Linkedin:[https://www.linkedin.com/in/tawhidh05/]
 - 📫 Email:[Tawhidh2014@gmail.com]
 
-- ## GitHub Stats & Metrics
+## GitHub Stats & Metrics
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=Tawhidh05&show_icons=true&theme=radical" width="30%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tawhidh05&layout=compact&theme=radical" width="30%" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tawhidh05&theme=radical" width="60%" />
 </p>
