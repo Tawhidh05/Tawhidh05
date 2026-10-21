@@ -4,7 +4,7 @@
 
 Full-stack developer working across React, Node.js, and MongoDB — building toward backend depth and exploring ML/AI on the side.
 
-**Currently building:** a full-stack WPA
+**Currently building:** A Nextjs Application
 </div>
 
 ---
