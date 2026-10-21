@@ -1,5 +1,9 @@
 <div align="center">
 
+<p align="center">
+  <img src="https://github.com/Tawhidh05/showcase/blob/main/Assets/gradient-liquid-abstract-banner-background-free-vector.jpg" width="100%" />
+</p>
+
 # Hi, I'm Tawhid Hossain
 
 Full-stack developer working across React, Node.js, and MongoDB — building toward backend depth and exploring ML/AI on the side.
@@ -26,3 +30,14 @@ Full-stack developer working across React, Node.js, and MongoDB — building tow
 
 - 💼 Linkedin:[https://www.linkedin.com/in/tawhidh05/]
 - 📫 Email:[Tawhidh2014@gmail.com]
+
+- ## GitHub Stats & Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tawhidh05&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tawhidh05&layout=compact&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tawhidh05&theme=radical" width="100%" />
+</p>
